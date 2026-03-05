@@ -10,6 +10,30 @@ body {
     color: #333;
 }
 
+/* Top Bar */
+.top-bar {
+    background: #0f0f1e;
+    color: white;
+    padding: 0.5rem 0;
+    font-size: 0.9rem;
+}
+
+.top-bar-content {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 2rem;
+}
+
+.top-bar-item {
+    display: flex;
+    align-items: center;
+}
+
+.top-bar-item span {
+    opacity: 0.9;
+}
+
 .container {
     max-width: 1200px;
     margin: 0 auto;
@@ -325,6 +349,12 @@ body {
 
 /* 响应式设计 */
 @media (max-width: 768px) {
+    .top-bar-content {
+        flex-direction: column;
+        gap: 0.5rem;
+        text-align: center;
+    }
+    
     .nav-menu {
         display: none;
     }
