@@ -1,4 +1,4 @@
-# AutoPort China
+# China AutoPort
 
 ## Professional Automotive Export Solutions
 One-Stop Vehicle Export Services for Global Enterprises
@@ -63,4 +63,4 @@ tradematrixlink@gmail.com
 
 ---
 
-© 2026 AutoExport Global. All Rights Reserved.
+© 2026 AutoPort China. All Rights Reserved.
